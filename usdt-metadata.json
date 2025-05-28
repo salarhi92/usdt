@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "A parody stablecoin with a 1:1 value to USD. For educational and entertainment use only.",
+  "logoURI": "https://yourdomain.com/fusdt-logo.png"
+}
